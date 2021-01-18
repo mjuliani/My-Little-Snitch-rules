@@ -1,6 +1,6 @@
 {
   "description" : "",
-  "name" : "PROCON sites evitar",
+  "name" : "PROCON",
   "rules" : [
     {
       "action" : "deny",
